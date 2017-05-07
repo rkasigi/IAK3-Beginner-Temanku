@@ -3,5 +3,6 @@
     <string name="open">Buka</string>
     <string name="comment">Komentar</string>
     <string name="imageCaption">Fish Fish Fish</string>
+    <string name="imageDescription">this is sampe image of image description</string>
     <string name="contentDetail">Dulu aku punya seorang kekasih</string>
 </resources>
